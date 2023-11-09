@@ -14,3 +14,9 @@ body {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+.titlectb {
+  /* font-family: Italiana; IMPORTED IN Navbar COMPONENT */
+  font-size: 96px;
+  font-weight: 300;
+}
